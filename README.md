@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+For weather data it relies on [https://openweathermap.org/api](https://openweathermap.org/api) so create a account and add APIKEY in local env variable
+
+Then, run the development server:
 
 ```bash
 npm run dev
